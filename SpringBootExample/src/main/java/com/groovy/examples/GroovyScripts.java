@@ -38,6 +38,10 @@ public class GroovyScripts {
 	 * 2) RestAPI (GET, POST, PUT, DELETE)
 	 * 3) Invoking RestAPI
 	 * 4) JMS Queue design
+	 * 5) Enabling Swagger2
+	 * 6) Enable security
+	 * 7) Junit testing
+	 * 8) Config and client Server
 	 * 
 	 * */
 }
