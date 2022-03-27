@@ -1,0 +1,4 @@
+@Grab('junit')
+class Test {
+    //...
+}
