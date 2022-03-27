@@ -1,4 +1,4 @@
-package model;
+package com.springbootexample.model;
 
 public class Product {
     private String id;

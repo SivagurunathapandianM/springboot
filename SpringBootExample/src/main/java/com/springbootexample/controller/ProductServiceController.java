@@ -1,6 +1,7 @@
-package controller;
-import exception.ProductionNotFoundException;
-import model.Product;
+package com.springbootexample.controller;
+
+import com.springbootexample..exception.ProductionNotFoundException;
+import com.springbootexample.model.Product;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
