@@ -1,4 +1,4 @@
-package com.springbootexample.model;
+/*package com.springbootexample.model;
 
 public class Product {
     private String id;
@@ -20,3 +20,4 @@ public class Product {
         this.id = id;
     }
 }
+*/

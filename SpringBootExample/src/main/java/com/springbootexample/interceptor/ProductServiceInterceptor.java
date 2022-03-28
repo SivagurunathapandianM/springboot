@@ -1,4 +1,4 @@
-package com.springbootexample.interceptor;
+/*package com.springbootexample.interceptor;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.HandlerInterceptor;
@@ -33,3 +33,4 @@ public class ProductServiceInterceptor implements HandlerInterceptor {
 
 
 }
+*/

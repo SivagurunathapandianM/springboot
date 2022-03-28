@@ -1,4 +1,4 @@
-package com.java.examples;
+/*package com.java.examples;
 
 import java.io.IOException;
 import java.io.OutputStream;
@@ -42,3 +42,4 @@ public class RestApi {
 	 }
 
 }
+*/

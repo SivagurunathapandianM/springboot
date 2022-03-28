@@ -1,4 +1,4 @@
-package com.springbootexample.filter;
+/*package com.springbootexample.filter;
 
 import org.springframework.stereotype.Component;
 
@@ -19,4 +19,4 @@ public class SimpleFilter implements Filter {
 
 
     public void init(FilterConfig filterconfig) throws ServletException {}
-}
+}*/

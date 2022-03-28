@@ -1,4 +1,4 @@
-package com.springbootexample.interceptor;
+/*package com.springbootexample.interceptor;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -15,3 +15,4 @@ public class ProductServiceInterceptorAppConfig extends WebMvcConfigurerAdapter 
         registry.addInterceptor(productServiceInterceptor);
     }
 }
+*/

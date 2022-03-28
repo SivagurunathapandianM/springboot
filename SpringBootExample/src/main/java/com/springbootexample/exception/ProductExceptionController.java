@@ -1,4 +1,4 @@
-package com.springbootexample.exception;
+/*package com.springbootexample.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -12,3 +12,4 @@ public class ProductExceptionController {
         return new ResponseEntity<>("Product not found", HttpStatus.NOT_FOUND);
     }
 }
+*/
