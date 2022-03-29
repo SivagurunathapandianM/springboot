@@ -1,3 +1,4 @@
+package javaSpringbootexample;
 /*package com.springbootexample.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;

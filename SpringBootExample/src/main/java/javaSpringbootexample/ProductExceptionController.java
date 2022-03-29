@@ -1,3 +1,4 @@
+package javaSpringbootexample;
 /*package com.springbootexample.exception;
 
 import org.springframework.http.HttpStatus;

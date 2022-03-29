@@ -1,3 +1,4 @@
+package javaSpringbootexample;
 /*package com.springbootexample.model;
 
 public class Product {

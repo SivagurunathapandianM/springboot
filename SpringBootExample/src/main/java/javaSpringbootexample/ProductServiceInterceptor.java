@@ -1,3 +1,4 @@
+package javaSpringbootexample;
 /*package com.springbootexample.interceptor;
 
 import org.springframework.stereotype.Component;
